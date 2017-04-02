@@ -394,6 +394,9 @@ header .socialNetworkNavBar .socialNetworkNav {
 	text-align: center;
 	color: white;
 }
+#project-features {
+	text-align: center;
+}
 
 /* Footer */
 footer .footerDisclaimer {
